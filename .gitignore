@@ -1,2 +1,4 @@
 terraform/.envrc
 terraform/.terraform/*
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate*

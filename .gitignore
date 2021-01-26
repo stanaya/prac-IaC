@@ -1,4 +1,5 @@
-terraform/.envrc
-terraform/.terraform/*
+*/.envrc
+*/archive/*
+*/.terraform/*
 terraform/.terraform.lock.hcl
 terraform/terraform.tfstate*
